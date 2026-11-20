@@ -41,7 +41,7 @@ class Ismail:
     frontend   = ["React", "Next.js", "TypeScript", "Tailwind CSS"]
     backend    = ["Python", "FastAPI", "Node.js", "Express", "REST APIs"]
     data       = ["PostgreSQL", "Supabase", "Redis", "Celery"]
-    testing    = ["Pytest", "Postman", "Playwright", "Functional & API testing"]
+    testing    = ["Pytest", "Postman", "Playwright", "Functional & API testing","AUTOMATION TESTING"]
     security   = ["OWASP ZAP", "OWASP Top 10", "Auth & RBAC", "Security reviews"]
     ai         = ["LLMs", "AI Agents", "RAG", "Prompt Engineering"]
     automation = ["n8n", "Webhooks", "API integrations"]
@@ -115,6 +115,45 @@ Workflows that link CRMs, email, WhatsApp and internal APIs, turning repetitive 
 | 🔐 **Security:** ran OWASP ZAP scans, checked auth and role-based access, fixed findings | 🐳 Docker-based local and server stacks |
 | 🤖 **AI:** tested the AI assistant and agent features for correct, safe answers | 🧪 Pytest, Postman, test reports per release |
 | 📄 **Docs:** test scenarios, bug reports and handover notes for the team | 🛡️ Role-based access & security-first design |
+
+---
+
+## 🔬 AI Research & Projects: Free Platforms
+
+🔒 *Research repo · free, open-source AI building blocks that run on your own PC, tested and benchmarked to choose a hosting stack for AI chat and voice assistants*
+
+#### 🗣️ Speech-to-Text (STT)
+| Project | What it does | Stack |
+|---|---|---|
+| 🎙️ SST Text Free | Speech-to-text web app (Whisper turbo) | sherpa-onnx · Node.js |
+| ⚡ Parakeet STT | Fast STT with NVIDIA Parakeet-TDT 0.6B, ~20× faster than Whisper on CPU | sherpa-onnx int8 |
+| 🔊 Phonon STT | English STT, 158 MB model, ~35× real-time, ~30 concurrent streams | CPU |
+| 🧠 Whisper Small INT8 | 99-language STT on CPU + LibriSpeech accuracy benchmark | whisper.cpp · Docker |
+| 📊 Free STT | 3 STT models compared under a 10/15-user load test (CPU, RAM, disk, GPU) | Faster-Whisper · Omnilingual ASR · Docker |
+
+#### 🔉 Voice Assistants & Text-to-Speech
+| Project | What it does | Stack |
+|---|---|---|
+| 🗨️ TTS Text Free | Text-to-speech app with 3 engines | Chatterbox · Piper · Kokoro · WSL2 CUDA |
+| 📞 LiveKit Free | Real-time voice assistant | LiveKit server + LiveKit Agents · Ollama |
+| ⏱️ LiveKit Faster-Whisper | Self-hosted voice pipeline that measures cold vs warm latency step by step | LiveKit · Faster-Whisper INT8 |
+| 🤖 Pipecat | Real-time voice assistant over WebRTC with Smart Turn | Pipecat |
+
+#### 🧠 LLMs, Embeddings & RAG
+| Project | What it does | Stack |
+|---|---|---|
+| 💬 AI Brain UI | Local LLM chat UI + sales bot | Ollama · llama.cpp · vLLM · SGLang |
+| 🔎 Qwen Embedding | Semantic search page + OpenAI-compatible embedding API, 3 ways | Qwen3-Embedding · Ollama · HF TEI |
+| 🥊 Embedding Fight | Benchmark comparing 17 open-source embedding models | Python |
+| 🔭 Phoenix | AI chatbot with full LLM tracing | Groq · Arize Phoenix |
+
+#### ☁️ Infrastructure, Monitoring & Load Testing
+| Project | What it does | Stack |
+|---|---|---|
+| 🔥 Server Smokey | Dockerised chatbot + 10-user load test to estimate hosting cost | Docker |
+| 📈 SigNoz Monitoring | Server, app, Redis, Celery and Docker logs + uptime checks | SigNoz · Uptime Kuma |
+| 🗄️ Cloudflare R2 Storage | Upload, browse, share and 3D-preview files (GLB/STL/OBJ/FBX) | Cloudflare R2 · three.js |
+| 📬 Stalwart Mail | Setup guide for a self-hosted mail server | Stalwart |
 
 ---
 
