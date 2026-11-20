@@ -1,6 +1,6 @@
 ﻿<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Mohamed%20Ismail&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Testing%20%E2%80%A2%20Security%20%E2%80%A2%20AI&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Mohamed%20Ismail&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Testing%20%E2%80%A2%20Security%20%E2%80%A2%20AI&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
@@ -198,11 +198,30 @@ Workflows that link CRMs, email, WhatsApp and internal APIs, turning repetitive 
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IsmailKairoxCo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
+</p>
+
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailKairoxCo&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
   <img height="170" src="https://streak-stats.demolab.com?user=IsmailKairoxCo&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IsmailKairoxCo&theme=tokyo-night&hide_border=true&area=true&custom_title=Mohamed%20Ismail%20%E2%80%A2%20Contribution%20Graph" alt="activity graph" />
+</p>
+
+## 🌌 3D Contribution Calendar
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <img src="./profile-3d-contrib/profile-gitblue.svg" alt="3D contribution calendar" />
+  </picture>
 </p>
 
 ## 🐍 Contribution Snake
@@ -239,5 +258,5 @@ Workflows that link CRMs, email, WhatsApp and internal APIs, turning repetitive 
 <p align="center"><b>⭐ "Build it, break it, secure it, ship it." ⭐</b></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer&animation=twinkling" alt="footer" />
 </p>
