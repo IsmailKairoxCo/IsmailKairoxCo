@@ -72,14 +72,6 @@ class Ismail:
   <img height="175" src="https://streak-stats.demolab.com?user=IsmailKairoxCo&background=0D1117&border=30363D&stroke=30363D&ring=C084FC&fire=F0ABFC&currStreakNum=C084FC&currStreakLabel=C084FC&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
 </p>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailKairoxCo&layout=compact&langs_count=8&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9&border_color=30363d" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IsmailKairoxCo&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
-</p>
-
 <!-- ═══════════════ 3D CONTRIBUTIONS ═══════════════ -->
 <p align="center">
   <picture>
