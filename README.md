@@ -1,4 +1,4 @@
-<!-- Header -->
+﻿<!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Mohamed%20Ismail&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Testing%20%E2%80%A2%20Security%20%E2%80%A2%20AI&descAlignY=58&descSize=18" alt="header" />
 </p>
@@ -13,14 +13,14 @@
   <img src="https://img.shields.io/badge/KairoX%20AI%20Tech-Full--Stack%20Engineer-2563eb?style=for-the-badge" alt="KairoX" />
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=06b6d4&label=VIEWS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=IsmailKairoxCo&style=for-the-badge&color=06b6d4&label=VIEWS" alt="views" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=IsmailKairoxCo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
 
 I'm **Mohamed Ismail**, a **Full-Stack Engineer at KairoX AI Tech** 🚀
 
@@ -162,16 +162,16 @@ Workflows that link CRMs, email, WhatsApp and internal APIs, turning repetitive 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-  <img height="170" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailKairoxCo&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img height="170" src="https://streak-stats.demolab.com?user=IsmailKairoxCo&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" alt="contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsmailKairoxCo/IsmailKairoxCo/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/IsmailKairoxCo/IsmailKairoxCo/output/github-snake.svg" alt="contribution snake" />
   </picture>
 </p>
 
